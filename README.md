@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [duchamp_global-ota_full-OS3.0.6.0.WNLMIXM-user-16.0-29842474e8](https://github.com/ahmadimehr/downloaderMe/tree/main/downloads/duchamp_global-ota_full-OS3.0.6.0.WNLMIXM-user-16.0-29842474e8)
+
+---
